@@ -138,7 +138,7 @@ Goodbye!
 ## Author Details
 
 - **Name**: Aditya choudhary
-- **Date**: 6/11/25
+- **Date**: 05/11/25
 - **Affiliation**: Programming for Problem Solving using Python Course
 
 ## Submission Guidelines
@@ -146,4 +146,5 @@ Goodbye!
 - Ensure `gradebook.py` includes all required tasks.
 - Code should be well-structured, modular, and include comments.
 - Test thoroughly before submission.
+
 - Marks Allocation: 5 points total.
